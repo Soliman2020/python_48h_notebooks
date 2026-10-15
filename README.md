@@ -4,11 +4,13 @@
 
 Welcome to the **Python 48H Student Pack**. This collection of Google Colab notebooks is designed for professionals, career changers, and beginners from different backgrounds who want to build practical Python skills step by step.
 
+The complete course is planned as **8 notebooks covering 12 learning sessions**. The first 4 notebooks are currently available, and the remaining notebooks will be added as the course develops.
+
 The notebooks combine clear explanations, runnable examples, and practice activities. No previous programming experience is required.
 
 ## Course sequence
 
-Study the notebooks in the following order:
+Study the available notebooks in the following order. Additional notebooks will be added to complete the 12-session course:
 
 1. **Session 01 — Getting Started, Variables, Types & Calculations**  
    Learn Python basics, variables, data types, values, operators, and calculations.
@@ -54,6 +56,7 @@ The notebooks can also be opened with Jupyter Notebook or JupyterLab on a local 
 | `Session_02_Strings_Comparisons_Decisions.ipynb` | Strings, string methods, comparisons, decisions |
 | `Session_03_Collections_Lists_Tuples_Sets_Dictionaries.ipynb` | Lists, tuples, sets, dictionaries |
 | `Session_04_Repetition_Loops_Processing_Records.ipynb` | `for` loops, `while` loops, repetition, record processing |
+| *Sessions 05–08* | Additional notebooks will be added to complete the 12-session course. |
 
 ## Prerequisites
 
