@@ -1,0 +1,129 @@
+case_id,sector,team,priority,status,hours_open,estimated_cost,created_date,owner
+CASE-0001,Research,Team 2,medium,open,10.2,137.5,2026-01-05,Learner_02
+CASE-0002,Audit,Team 3,high,in_progress,20.0,175.0,2026-01-05,Learner_03
+CASE-0003,Software,Team 4,low,closed,29.8,212.5,2026-01-06,Learner_04
+CASE-0004,Healthcare,Team 1,medium,open,39.5,248.0,2026-01-06,Learner_05
+CASE-0005,Banking,Team 2,high,in_progress,49.2,285.5,2026-01-06,Learner_06
+CASE-0006,Renewable Energy,Team 3,low,closed,59.0,323.0,2026-01-07,Learner_07
+CASE-0007,HR,Team 4,medium,open,8.8,360.5,2026-01-07,Learner_08
+CASE-0008,Telecom,Team 1,high,in_progress,18.5,396.0,2026-01-07,Learner_09
+CASE-0009,Research,Team 2,low,closed,28.2,433.5,2026-01-08,Learner_10
+CASE-0010,Audit,Team 3,medium,open,38.0,471.0,2026-01-08,Learner_11
+CASE-0011,Software,Team 4,high,in_progress,47.8,508.5,2026-01-08,Learner_12
+CASE-0012,Healthcare,Team 1,low,closed,57.5,544.0,2026-01-09,Learner_01
+CASE-0013,Banking,Team 2,medium,open,7.2,581.5,2026-01-09,Learner_02
+CASE-0014,Renewable Energy,Team 3,high,in_progress,17.0,619.0,2026-01-09,Learner_03
+CASE-0015,HR,Team 4,low,closed,26.8,656.5,2026-01-10,Learner_04
+CASE-0016,Telecom,Team 1,medium,open,36.5,692.0,2026-01-10,Learner_05
+CASE-0017,Research,Team 2,high,in_progress,46.2,729.5,2026-01-10,Learner_06
+CASE-0018,Audit,Team 3,low,closed,56.0,767.0,2026-01-11,Learner_07
+CASE-0019,Software,Team 4,medium,open,5.8,804.5,2026-01-11,Learner_08
+CASE-0020,Healthcare,Team 1,high,in_progress,15.5,840.0,2026-01-11,Learner_09
+CASE-0021,Banking,Team 2,low,closed,25.2,877.5,2026-01-12,Learner_10
+CASE-0022,Renewable Energy,Team 3,medium,open,35.0,915.0,2026-01-12,Learner_11
+CASE-0023,HR,Team 4,high,in_progress,44.8,952.5,2026-01-12,Learner_12
+CASE-0024,Telecom,Team 1,low,closed,54.5,988.0,2026-01-13,Learner_01
+CASE-0025,Research,Team 2,medium,open,4.2,1025.5,2026-01-13,Learner_02
+CASE-0026,Audit,Team 3,high,in_progress,14.0,1063.0,2026-01-13,Learner_03
+CASE-0027,Software,Team 4,low,closed,23.8,1100.5,2026-01-14,Learner_04
+CASE-0028,Healthcare,Team 1,medium,open,33.5,1136.0,2026-01-14,Learner_05
+CASE-0029,Banking,Team 2,high,in_progress,43.2,1173.5,2026-01-14,Learner_06
+CASE-0030,Renewable Energy,Team 3,low,closed,53.0,1211.0,2026-01-15,Learner_07
+CASE-0031,HR,Team 4,medium,open,2.8,1248.5,2026-01-15,Learner_08
+CASE-0032,Telecom,Team 1,high,in_progress,12.5,1284.0,2026-01-15,Learner_09
+CASE-0033,Research,Team 2,low,closed,22.2,1321.5,2026-01-16,Learner_10
+CASE-0034,Audit,Team 3,medium,open,32.0,1359.0,2026-01-16,Learner_11
+CASE-0035,Software,Team 4,high,in_progress,41.8,1396.5,2026-01-16,Learner_12
+CASE-0036,Healthcare,Team 1,low,closed,51.5,1432.0,2026-01-17,Learner_01
+CASE-0037,Banking,Team 2,medium,open,1.2,1469.5,2026-01-17,Learner_02
+CASE-0038,Renewable Energy,Team 3,high,in_progress,11.0,1507.0,2026-01-17,Learner_03
+CASE-0039,HR,Team 4,low,closed,20.8,1544.5,2026-01-18,Learner_04
+CASE-0040,Telecom,Team 1,medium,open,30.5,1580.0,2026-01-18,Learner_05
+CASE-0041,Research,Team 2,high,in_progress,40.2,1617.5,2026-01-18,Learner_06
+CASE-0042,Audit,Team 3,low,closed,50.0,1655.0,2026-01-19,Learner_07
+CASE-0043,Software,Team 4,medium,open,59.8,1692.5,2026-01-19,Learner_08
+CASE-0044,Healthcare,Team 1,high,in_progress,9.5,128.0,2026-01-19,Learner_09
+CASE-0045,Banking,Team 2,low,closed,19.2,165.5,2026-01-20,Learner_10
+CASE-0046,Renewable Energy,Team 3,medium,open,29.0,203.0,2026-01-20,Learner_11
+CASE-0047,HR,Team 4,high,in_progress,38.8,240.5,2026-01-20,Learner_12
+CASE-0048,Telecom,Team 1,low,closed,48.5,276.0,2026-01-21,Learner_01
+CASE-0049,Research,Team 2,medium,open,58.2,313.5,2026-01-21,Learner_02
+CASE-0050,Audit,Team 3,high,in_progress,8.0,351.0,2026-01-21,Learner_03
+CASE-0051,Software,Team 4,low,closed,17.8,388.5,2026-01-22,Learner_04
+CASE-0052,Healthcare,Team 1,medium,open,27.5,424.0,2026-01-22,Learner_05
+CASE-0053,Banking,Team 2,high,in_progress,37.2,461.5,2026-01-22,Learner_06
+CASE-0054,Renewable Energy,Team 3,low,closed,47.0,499.0,2026-01-23,Learner_07
+CASE-0055,HR,Team 4,medium,open,56.8,536.5,2026-01-23,Learner_08
+CASE-0056,Telecom,Team 1,high,in_progress,6.5,572.0,2026-01-23,Learner_09
+CASE-0057,Research,Team 2,low,closed,16.2,609.5,2026-01-24,Learner_10
+CASE-0058,Audit,Team 3,medium,open,26.0,647.0,2026-01-24,Learner_11
+CASE-0059,Software,Team 4,high,in_progress,35.8,684.5,2026-01-24,Learner_12
+CASE-0060,Healthcare,Team 1,low,closed,45.5,720.0,2026-01-25,Learner_01
+CASE-0061,Banking,Team 2,medium,open,55.2,757.5,2026-01-25,Learner_02
+CASE-0062,Renewable Energy,Team 3,high,in_progress,5.0,795.0,2026-01-25,Learner_03
+CASE-0063,HR,Team 4,low,closed,14.8,832.5,2026-01-26,Learner_04
+CASE-0064,Telecom,Team 1,medium,open,24.5,868.0,2026-01-26,Learner_05
+CASE-0065,Research,Team 2,high,in_progress,34.2,905.5,2026-01-26,Learner_06
+CASE-0066,Audit,Team 3,low,closed,44.0,943.0,2026-01-27,Learner_07
+CASE-0067,Software,Team 4,medium,open,53.8,980.5,2026-01-27,Learner_08
+CASE-0068,Healthcare,Team 1,high,in_progress,3.5,1016.0,2026-01-27,Learner_09
+CASE-0069,Banking,Team 2,low,closed,13.2,1053.5,2026-01-28,Learner_10
+CASE-0070,Renewable Energy,Team 3,medium,open,23.0,1091.0,2026-01-28,Learner_11
+CASE-0071,HR,Team 4,high,in_progress,32.8,1128.5,2026-01-28,Learner_12
+CASE-0072,Telecom,Team 1,low,closed,42.5,1164.0,2026-01-29,Learner_01
+CASE-0073,Research,Team 2,medium,open,52.2,1201.5,2026-01-29,Learner_02
+CASE-0074,Audit,Team 3,high,in_progress,2.0,1239.0,2026-01-29,Learner_03
+CASE-0075,Software,Team 4,low,closed,11.8,1276.5,2026-01-30,Learner_04
+CASE-0076,Healthcare,Team 1,medium,open,21.5,1312.0,2026-01-30,Learner_05
+CASE-0077,Banking,Team 2,high,in_progress,31.2,1349.5,2026-01-30,Learner_06
+CASE-0078,Renewable Energy,Team 3,low,closed,41.0,1387.0,2026-01-31,Learner_07
+CASE-0079,HR,Team 4,medium,open,50.8,1424.5,2026-01-31,Learner_08
+CASE-0080,Telecom,Team 1,high,in_progress,0.5,1460.0,2026-01-31,Learner_09
+CASE-0081,Research,Team 2,low,closed,10.2,1497.5,2026-02-01,Learner_10
+CASE-0082,Audit,Team 3,medium,open,20.0,1535.0,2026-02-01,Learner_11
+CASE-0083,Software,Team 4,high,in_progress,29.8,1572.5,2026-02-01,Learner_12
+CASE-0084,Healthcare,Team 1,low,closed,39.5,1608.0,2026-02-02,Learner_01
+CASE-0085,Banking,Team 2,medium,open,49.2,1645.5,2026-02-02,Learner_02
+CASE-0086,Renewable Energy,Team 3,high,in_progress,59.0,1683.0,2026-02-02,Learner_03
+CASE-0087,HR,Team 4,low,closed,8.8,120.5,2026-02-03,Learner_04
+CASE-0088,Telecom,Team 1,medium,open,18.5,156.0,2026-02-03,Learner_05
+CASE-0089,Research,Team 2,high,in_progress,28.2,193.5,2026-02-03,Learner_06
+CASE-0090,Audit,Team 3,low,closed,38.0,231.0,2026-02-04,Learner_07
+CASE-0091,Software,Team 4,medium,open,47.8,268.5,2026-02-04,Learner_08
+CASE-0092,Healthcare,Team 1,high,in_progress,57.5,304.0,2026-02-04,Learner_09
+CASE-0093,Banking,Team 2,low,closed,7.2,341.5,2026-02-05,Learner_10
+CASE-0094,Renewable Energy,Team 3,medium,open,17.0,379.0,2026-02-05,Learner_11
+CASE-0095,HR,Team 4,high,in_progress,26.8,416.5,2026-02-05,Learner_12
+CASE-0096,Telecom,Team 1,low,closed,36.5,452.0,2026-02-06,Learner_01
+CASE-0097,Research,Team 2,medium,open,46.2,489.5,2026-02-06,Learner_02
+CASE-0098,Audit,Team 3,high,in_progress,56.0,527.0,2026-02-06,Learner_03
+CASE-0099,Software,Team 4,low,closed,5.8,564.5,2026-02-07,Learner_04
+CASE-0100,Healthcare,Team 1,medium,open,15.5,600.0,2026-02-07,Learner_05
+CASE-0101,Banking,Team 2,high,in_progress,25.2,637.5,2026-02-07,Learner_06
+CASE-0102,Renewable Energy,Team 3,low,closed,35.0,675.0,2026-02-08,Learner_07
+CASE-0103,HR,Team 4,medium,open,44.8,712.5,2026-02-08,Learner_08
+CASE-0104,Telecom,Team 1,high,in_progress,54.5,748.0,2026-02-08,Learner_09
+CASE-0105,Research,Team 2,low,closed,4.2,785.5,2026-02-09,Learner_10
+CASE-0106,Audit,Team 3,medium,open,14.0,823.0,2026-02-09,Learner_11
+CASE-0107,Software,Team 4,high,in_progress,23.8,860.5,2026-02-09,Learner_12
+CASE-0108,Healthcare,Team 1,low,closed,33.5,896.0,2026-02-10,Learner_01
+CASE-0109,Banking,Team 2,medium,open,43.2,933.5,2026-02-10,Learner_02
+CASE-0110,Renewable Energy,Team 3,high,in_progress,53.0,971.0,2026-02-10,Learner_03
+CASE-0111,HR,Team 4,low,closed,2.8,1008.5,2026-02-11,Learner_04
+CASE-0112,Telecom,Team 1,medium,open,12.5,1044.0,2026-02-11,Learner_05
+CASE-0113,Research,Team 2,high,in_progress,22.2,1081.5,2026-02-11,Learner_06
+CASE-0114,Audit,Team 3,low,closed,32.0,1119.0,2026-02-12,Learner_07
+CASE-0115,Software,Team 4,medium,open,41.8,1156.5,2026-02-12,Learner_08
+CASE-0116,Healthcare,Team 1,high,in_progress,51.5,1192.0,2026-02-12,Learner_09
+CASE-0117,Banking,Team 2,low,closed,1.2,1229.5,2026-02-13,Learner_10
+CASE-0118,Renewable Energy,Team 3,medium,open,11.0,1267.0,2026-02-13,Learner_11
+CASE-0119,HR,Team 4,high,in_progress,20.8,1304.5,2026-02-13,Learner_12
+CASE-0120,Telecom,Team 1,low,closed,30.5,1340.0,2026-02-14,Learner_01
+CASE-0121,Research,Team 2,medium,open,40.2,1377.5,2026-02-14,Learner_02
+CASE-0122,Audit,Team 3,high,in_progress,50.0,1415.0,2026-02-14,Learner_03
+CASE-0123,Software,Team 4,low,closed,59.8,1452.5,2026-02-15,Learner_04
+CASE-0124,Healthcare,Team 1,medium,open,9.5,1488.0,2026-02-15,Learner_05
+CASE-0125,Banking,Team 2,high,in_progress,19.2,1525.5,2026-02-15,Learner_06
+CASE-0126,Renewable Energy,Team 3,low,closed,29.0,1563.0,2026-02-16,Learner_07
+CASE-0127,HR,Team 4,medium,open,38.8,1600.5,2026-02-16,Learner_08
+CASE-0128,Telecom,Team 1,high,in_progress,48.5,1636.0,2026-02-16,Learner_09

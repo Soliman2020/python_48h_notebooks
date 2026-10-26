@@ -1,0 +1,21 @@
+{
+  "source": "offline training example",
+  "generated_at": "2026-02-15",
+  "tickets": [
+    {
+      "id": "IT-01",
+      "status": "open",
+      "priority": "high"
+    },
+    {
+      "id": "IT-02",
+      "status": "closed",
+      "priority": "low"
+    },
+    {
+      "id": "IT-03",
+      "status": "open",
+      "priority": "medium"
+    }
+  ]
+}

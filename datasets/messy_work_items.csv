@@ -1,0 +1,67 @@
+case_id,sector,priority,status,hours_open,created_date
+CASE-0001, RESEARCH ,unknown,OPEN,,2026-01-05
+CASE-0002,Audit,high,in_progress,20.0,2026-01-05
+CASE-0003,Software,low,closed,29.8,2026-01-06
+CASE-0004,Healthcare,medium,open,39.5,2026-01-06
+CASE-0005,Banking,high,in_progress,49.2,2026-01-06
+CASE-0006,Renewable Energy,low,closed,59.0,2026-01-07
+CASE-0007,HR,medium,open,8.8,2026-01-07
+CASE-0008,Telecom,high,in_progress,18.5,2026-01-07
+CASE-0009,Research,low,closed,28.2,2026-01-08
+CASE-0010,Audit,medium,open,,2026-01-08
+CASE-0011,Software,high,in_progress,47.8,2026-01-08
+CASE-0012,Healthcare,low,closed,57.5,2026-01-09
+CASE-0013, BANKING ,medium,open,7.2,2026-01-09
+CASE-0014,Renewable Energy,high,OPEN,17.0,2026-01-09
+CASE-0015,HR,low,closed,26.8,2026-01-10
+CASE-0016,Telecom,medium,open,36.5,2026-01-10
+CASE-0017,Research,high,in_progress,46.2,2026-01-10
+CASE-0018,Audit,unknown,closed,56.0,2026-01-11
+CASE-0019,Software,medium,open,,2026-01-11
+CASE-0020,Healthcare,high,in_progress,15.5,2026-01-11
+CASE-0021,Banking,low,closed,25.2,2026-01-12
+CASE-0022,Renewable Energy,medium,open,35.0,2026-01-12
+CASE-0023,HR,high,in_progress,44.8,2026-01-12
+CASE-0024,Telecom,low,closed,54.5,2026-01-13
+CASE-0025, RESEARCH ,medium,open,4.2,2026-01-13
+CASE-0026,Audit,high,in_progress,14.0,2026-01-13
+CASE-0027,Software,low,OPEN,23.8,2026-01-14
+CASE-0028,Healthcare,medium,open,,2026-01-14
+CASE-0029,Banking,high,in_progress,43.2,2026-01-14
+CASE-0030,Renewable Energy,low,closed,53.0,2026-01-15
+CASE-0031,HR,medium,open,2.8,2026-01-15
+CASE-0032,Telecom,high,in_progress,12.5,2026-01-15
+CASE-0033,Research,low,closed,22.2,2026-01-16
+CASE-0034,Audit,medium,open,32.0,2026-01-16
+CASE-0035,Software,unknown,in_progress,41.8,2026-01-16
+CASE-0036,Healthcare,low,closed,51.5,2026-01-17
+CASE-0037, BANKING ,medium,open,,2026-01-17
+CASE-0038,Renewable Energy,high,in_progress,11.0,2026-01-17
+CASE-0039,HR,low,closed,20.8,2026-01-18
+CASE-0040,Telecom,medium,OPEN,30.5,2026-01-18
+CASE-0041,Research,high,in_progress,40.2,2026-01-18
+CASE-0042,Audit,low,closed,50.0,2026-01-19
+CASE-0043,Software,medium,open,59.8,2026-01-19
+CASE-0044,Healthcare,high,in_progress,9.5,2026-01-19
+CASE-0045,Banking,low,closed,19.2,2026-01-20
+CASE-0046,Renewable Energy,medium,open,,2026-01-20
+CASE-0047,HR,high,in_progress,38.8,2026-01-20
+CASE-0048,Telecom,low,closed,48.5,2026-01-21
+CASE-0049, RESEARCH ,medium,open,58.2,2026-01-21
+CASE-0050,Audit,high,in_progress,8.0,2026-01-21
+CASE-0051,Software,low,closed,17.8,2026-01-22
+CASE-0052,Healthcare,unknown,open,27.5,2026-01-22
+CASE-0053,Banking,high,OPEN,37.2,2026-01-22
+CASE-0054,Renewable Energy,low,closed,47.0,2026-01-23
+CASE-0055,HR,medium,open,,2026-01-23
+CASE-0056,Telecom,high,in_progress,6.5,2026-01-23
+CASE-0057,Research,low,closed,16.2,2026-01-24
+CASE-0058,Audit,medium,open,26.0,2026-01-24
+CASE-0059,Software,high,in_progress,35.8,2026-01-24
+CASE-0060,Healthcare,low,closed,45.5,2026-01-25
+CASE-0061, BANKING ,medium,open,55.2,2026-01-25
+CASE-0062,Renewable Energy,high,in_progress,5.0,2026-01-25
+CASE-0063,HR,low,closed,14.8,2026-01-26
+CASE-0064,Telecom,medium,open,,2026-01-26
+CASE-0065,Research,high,in_progress,34.2,2026-01-26
+CASE-0004,Healthcare,medium,open,39.5,2026-01-06
