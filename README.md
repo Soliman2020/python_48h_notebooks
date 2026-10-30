@@ -4,13 +4,13 @@
 
 Welcome to the **Python 48H Student Pack**. This collection of Google Colab notebooks is designed for professionals, career changers, and beginners from different backgrounds who want to build practical Python skills step by step.
 
-The complete course is planned as **8 notebooks covering 12 learning sessions**. Seven session notebooks are currently available, along with three focused Session 05 expansion notebooks. The remaining notebook will be added as the course develops.
+The complete course is planned as **10 session notebooks covering 12 learning sessions**. Sessions 01–10 are currently available, with focused Session 05 expansion notebooks and instructor solution notebooks provided separately.
 
 The notebooks combine clear explanations, runnable examples, and practice activities. No previous programming experience is required.
 
 ## Course sequence
 
-Study the available notebooks in the following order. Session 05 includes the main functions notebook plus focused expansion notebooks; additional notebooks will be added to complete the 12-session course:
+Study the available notebooks in the following order. Session 05 includes the main functions notebook plus focused expansion notebooks. Sessions 08–10 extend the course into practical data analysis, classes, and decorators:
 
 1. **Session 01 — Getting Started, Variables, Types & Calculations**  
    Learn Python basics, variables, data types, values, operators, and calculations.
@@ -34,6 +34,15 @@ Study the available notebooks in the following order. Session 05 includes the ma
 
 7. **Session 07 — Working with TXT, CSV & JSON Files**  
    Read, write, and process common text and structured data files.
+
+8. **Session 08 — Pandas Tabular Data for Beginners**  
+   Inspect, filter, summarise, and explore tabular data with Pandas.
+
+9. **Session 09 — Pandas Cleaning, Combining & Reporting**  
+   Inspect messy data, handle missing values, use `concat()` and `merge()`, validate joins, and produce checked reports.
+
+10. **Session 10 — Classes and Decorators**  
+    Model work items with classes and add reusable logging, validation, timing, and caching behavior with decorators.
 
 ## How to use the notebooks
 
@@ -75,7 +84,9 @@ The notebooks can also be opened with Jupyter Notebook or JupyterLab on a local 
 | `Session_05_Expansion_Libraries-and-small-test-cases.ipynb` | Libraries and small test cases |
 | `Session_06_Errors_Debugging_Small_Tests.ipynb` | Errors, debugging, and small tests |
 | `Session_07_Working_with_TXT_CSV_JSON_Files.ipynb` | TXT, CSV, and JSON files |
-| *Session 08* | Additional notebook will be added to complete the 12-session course. |
+| `Session_08_Pandas_Foundations_and_Exploration.ipynb` | Pandas DataFrames, inspection, filtering, and exploration |
+| `Session_09_Pandas_Cleaning_Combining_and_Reporting.ipynb` | Data cleaning, missing values, `concat()`, `merge()`, validation, and reporting |
+| `Session_10_Classes_and_Decorators.ipynb` | Classes, objects, validation, decorators, `@wraps`, logging, timing, and caching |
 
 ## Prerequisites
 
