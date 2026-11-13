@@ -4,7 +4,7 @@
 
 Welcome to the **Python 48H Student Pack**. This collection of Google Colab notebooks is designed for professionals, career changers, and beginners from different backgrounds who want to build practical Python skills step by step.
 
-The complete course is planned as **10 session notebooks covering 12 learning sessions**. Sessions 01–10 are currently available, with focused Session 05 expansion notebooks and instructor solution notebooks provided separately.
+The complete course is planned as **12 session notebooks covering 12 learning sessions**. Sessions 01–12 are currently available, with focused Session 05 expansion notebooks and instructor solution notebooks provided separately.
 
 The notebooks combine clear explanations, runnable examples, and practice activities. No previous programming experience is required.
 
@@ -43,6 +43,12 @@ Study the available notebooks in the following order. Session 05 includes the ma
 
 10. **Session 10 — Classes and Decorators**  
     Model work items with classes and add reusable logging, validation, timing, and caching behavior with decorators.
+
+11. **Session 11 — From Notebooks to Python Scripts**  
+    Move from notebook exploration to reusable Python scripts and modules, use `argparse` and `pathlib`, create virtual environments, and package a small Pandas workflow.
+
+12. **Session 12 — Git and Python Revision**  
+    Revise the main Python ideas from Sessions 01–11, complete a small CSV/Pandas analysis project, and practise a simple local Git workflow.
 
 ## How to use the notebooks
 
@@ -87,6 +93,8 @@ The notebooks can also be opened with Jupyter Notebook or JupyterLab on a local 
 | `Session_08_Pandas_Foundations_and_Exploration.ipynb` | Pandas DataFrames, inspection, filtering, and exploration |
 | `Session_09_Pandas_Cleaning_Combining_and_Reporting.ipynb` | Data cleaning, missing values, `concat()`, `merge()`, validation, and reporting |
 | `Session_10_Classes_and_Decorators.ipynb` | Classes, objects, validation, decorators, `@wraps`, logging, timing, and caching |
+| `Session_11_From_Notebooks_to_Python_Scripts.ipynb` | Python scripts, modules, `argparse`, `pathlib`, virtual environments, and packaging a small workflow |
+| `Session_12_Git_and_Python_Revision.ipynb` | Git basics, Python revision, CSV/Pandas analysis, scripting, and local version control |
 
 ## Prerequisites
 
